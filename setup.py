@@ -8,7 +8,7 @@ setup(
     version='0.0.1',  # Version of your package
     author='Enes Kuzucu',  # Your name
 
-    description='A module comprehensive prompt management and orchestration ',  # Short description
+    description='A module for comprehensive prompt management and orchestration ',  # Short description
     long_description=open('README.md').read(),  # Long description from a README file
     long_description_content_type='text/markdown',  # Type of the long description
 
